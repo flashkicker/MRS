@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "798465932183",
+    "firebase_url": "https://movierecommendations-be3d1.firebaseio.com",
+    "project_id": "movierecommendations-be3d1",
+    "storage_bucket": "movierecommendations-be3d1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:798465932183:android:d842af33038fad5c",
+        "android_client_info": {
+          "package_name": "info.androidhive.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "798465932183-a9a05m4as4re34fqppovgecvv1rhesrl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBI8DQZLKiIuyrP3_RE-QnI5Yeyij3xUhc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
